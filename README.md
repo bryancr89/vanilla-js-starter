@@ -1,12 +1,13 @@
 ## Ejercicio 1
 
-1. Crear un archivo .gitignore
-2. Agregar al .gitignore:
-   * Cualquier archivo o carpeta que NO sea:
-      * src
-      * package.json
-      * package-lock.json 
-3. Commit & Push del cambio.
-4. Instalar los paquetes
-5. Levantar la aplicación:
-   * Revisar el package.json
+1. Realice el ejercicio en el archivo: ejercicio1.js
+2. Utilizando el keyword "this", haga que la funcion siguiente incremenete el valor en 1 y que lo retorne.
+
+
+## Ejercicio 2
+
+1. Realice el ejercicio en el archivo: ejercicio1.js
+2. Cree una clase con:
+   * Una propiedad valor inicializada en 0
+   * Un método siguiente que incremenente el valor en 1.
+3. Defina una variable llamada "instancia" que inicialice una instancia de la clase.
