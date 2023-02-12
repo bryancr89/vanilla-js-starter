@@ -1,13 +1,23 @@
-## Ejercicio 1
+## Ejercicio 3
 
-1. Realice el ejercicio en el archivo: ejercicio1.js
-2. Utilizando el keyword "this", haga que la funcion siguiente incremenete el valor en 1 y que lo retorne.
+1. Realice el ejercicio en el archivo: ejercicio3.js
+2. Ejecute las pruebas con 'npm test' para garantizar que el código este funcionando correctamente.
 
-
-## Ejercicio 2
-
-1. Realice el ejercicio en el archivo: ejercicio1.js
-2. Cree una clase con:
-   * Una propiedad valor inicializada en 0
-   * Un método siguiente que incremenente el valor en 1.
-3. Defina una variable llamada "instancia" que inicialice una instancia de la clase.
+### Ejercicios:
+1. Escribir una función llamada clonarArreglo.
+   * Dado un arreglo, retorna una arreglo nuevo con todos los elementos del arreglo original.
+<br />
+<br /> 
+2. Escribir una función llamada clonarObjeto.
+   * Dado un objeto, retorna un objeto nuevo con todos los elementos del objeto original.
+<br />
+<br /> 
+3. Escribir una función llamada sumar.
+   * Debe recibir N parametros (rest operator)
+   * Retorna la suma de todos los parametros
+<br />
+<br /> 
+4. Escribir una función llamada saludar.
+   * Debe recibir un parametro llamado nombre
+   * El valor por defecto para el parametro nombre es "Desconocido"
+   * La función retorna el mensaje "Hola <nombre>"
